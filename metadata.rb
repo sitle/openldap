@@ -1,0 +1,7 @@
+name 'openldap'
+maintainer 'Leonard TAVAE'
+maintainer_email 'leonard.tavae@informatique.gov.pf'
+license 'Apache 2.0'
+description 'Installs/Configures openldap'
+long_description 'Installs/Configures openldap'
+version '0.1.0'
